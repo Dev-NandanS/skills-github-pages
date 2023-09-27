@@ -1,4 +1,4 @@
 ---
-My Githyb Experiences: Welcome to my blog
+My Github Experiences: Welcome to my blog
 ---
 
